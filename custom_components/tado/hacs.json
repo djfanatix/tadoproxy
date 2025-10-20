@@ -1,0 +1,10 @@
+{
+  "name": "Tado Proxy Integration",
+  "content_in_root": false,
+  "dependencies": [],
+  "codeowners": ["@djfanatix"],
+  "homeassistant": "2023.8.0",
+  "version": "1.0.0",
+  "description": "Integration for Tado Proxy",
+  "repository": "https://github.com/djfanatix/tadoproxy"
+}
